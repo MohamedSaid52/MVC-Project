@@ -1,0 +1,14 @@
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\bin\Debug\net6.0\MVC.DAL.deps.json
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\bin\Debug\net6.0\MVC.DAL.runtimeconfig.json
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\bin\Debug\net6.0\MVC.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\bin\Debug\net6.0\MVC.DAL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.csproj.AssemblyReference.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.AssemblyInfoInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.AssemblyInfo.cs
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\refint\MVC.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\MVC.DAL.genruntimeconfig.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.DAL\obj\Debug\net6.0\ref\MVC.DAL.dll

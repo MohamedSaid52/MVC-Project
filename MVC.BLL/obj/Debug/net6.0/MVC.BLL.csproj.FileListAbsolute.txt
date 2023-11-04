@@ -1,0 +1,15 @@
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\bin\Debug\net6.0\MVC.BLL.deps.json
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\bin\Debug\net6.0\MVC.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\bin\Debug\net6.0\MVC.BLL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\bin\Debug\net6.0\MVC.DAL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\bin\Debug\net6.0\MVC.DAL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.csproj.AssemblyReference.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.AssemblyInfoInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.AssemblyInfo.cs
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.csproj.CoreCompileInputs.cache
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.csproj.CopyComplete
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\refint\MVC.BLL.dll
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\MVC.BLL.pdb
+E:\Full Stack\Back End\Ahmed Khaled\07 ASP MVC\MVC.BLL\obj\Debug\net6.0\ref\MVC.BLL.dll
